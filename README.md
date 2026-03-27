@@ -46,3 +46,16 @@ Then:
 SI = (1000 × 5 × 2) / 100 = 100
 
 ## 📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## 📌 Author
+
+- Divya
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
