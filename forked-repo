@@ -1,0 +1,15 @@
+$ curl -s https://api.github.com/repos/Divya-web-stack/mcino-Introduction-to-Git-and-GitHub | grep -E '"name":|"full_name":|"fork":|"parent":' -A 2
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Divya-web-stack/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+--
+  "fork": true,
+  "url": "https://api.github.com/repos/Divya-web-stack/mcino-Introduction-to-Git-and-GitHub",
+  "forks_url": "https://api.github.com/repos/Divya-web-stack/mcino-Introduction-to-Git-and-GitHub/forks",
+--
+  "parent": {
+    "id": 1050225087,
+    "node_id": "R_kgDOPpkpvw",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  }

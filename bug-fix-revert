@@ -1,0 +1,20 @@
+$ curl -s "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?head=Divya-web-stack:bug-fix-revert"
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/123",
+    "id": 456789,
+    "state": "open",
+    "title": "Bug fix revert",
+    "user": {
+      "login": "Divya-web-stack"
+    },
+    "head": {
+      "label": "Divya-web-stack:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "repo": {
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "Divya-web-stack/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
